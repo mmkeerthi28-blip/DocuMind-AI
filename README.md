@@ -87,6 +87,4 @@ The complete implementation is available in the Jupyter/Google Colab notebook:
 
 A Gradio-based interface was developed to allow users to upload documents and obtain extracted information through the trained model.
 
-## Disclaimer
 
-This project is intended for educational and research purposes only. The extracted information should be verified by the user and should not be considered a substitute for manual document verification.
