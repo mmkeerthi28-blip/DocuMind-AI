@@ -79,7 +79,7 @@ Example output:
 
 ## Project Notebook
 
-The complete implementation is available in the Jupyter/Google Colab notebook:
+The complete implementation is available in the Google Colab notebook:
 
 `DocuMind_LayoutLMv3.ipynb`
 
